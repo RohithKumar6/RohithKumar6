@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Rohith Kumar 👋
+ 
+**Pasupuleti Rohith Kumar** | B.Tech Student | Mohan Babu University
+ 
+I'm a student interested in AI, machine learning, and building practical software. I enjoy turning ideas into working projects and learning by shipping things.
+ 
+---
 
 <!--
 **RohithKumar6/RohithKumar6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
