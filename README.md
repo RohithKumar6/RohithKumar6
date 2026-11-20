@@ -1,22 +1,13 @@
 # Hi, I'm Rohith Kumar 👋
- 
+
 **Pasupuleti Rohith Kumar** | B.Tech Student | Mohan Babu University
- 
-I'm a student exploring AI, machine learning, and software engineering. I enjoy building practical projects, experimenting with new technologies, and learning by bringing ideas to life
- 
----
 
-<!--
-**RohithKumar6/RohithKumar6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Software Engineer passionate about Artificial Intelligence, Machine Learning, and Software Development.
 
-Here are some ideas to get you started:
+I enjoy solving problems, building practical projects, exploring emerging technologies, and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing B.Tech at Mohan Babu University
+- 💻 Interested in Java, Python, AI/ML, and Software Engineering
+- 🌱 Currently learning Data Structures & Algorithms and Deep Learning
+- 🚀 Building projects and learning through hands-on experience
+- 🤝 Open to collaboration and learning opportunities
