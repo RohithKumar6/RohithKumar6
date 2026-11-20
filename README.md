@@ -2,7 +2,7 @@
  
 **Pasupuleti Rohith Kumar** | B.Tech Student | Mohan Babu University
  
-I'm a Computer Science student interested in AI, machine learning, and software development. I enjoy building useful projects, solving problems, and learning by creating and shipping real applications.
+I'm a student exploring AI, machine learning, and software engineering. I enjoy building practical projects, experimenting with new technologies, and learning by bringing ideas to life
  
 ---
 
