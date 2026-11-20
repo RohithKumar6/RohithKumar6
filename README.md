@@ -2,12 +2,12 @@
 
 **Pasupuleti Rohith Kumar** | B.Tech Student | Mohan Babu University
 
-I'm an aspiring Software Engineer passionate about Artificial Intelligence, Machine Learning, and Software Development.
+I'm an aspiring Software Engineer interested in Artificial Intelligence, Machine Learning, and building innovative software solutions.
 
-I enjoy solving problems, building practical projects, exploring emerging technologies, and continuously improving my technical skills.
+I enjoy exploring new technologies, solving real-world problems, and turning ideas into practical projects while continuously expanding my technical knowledge.
 
 - 🎓 Pursuing B.Tech at Mohan Babu University
-- 💻 Interested in Java, Python, AI/ML, and Software Engineering
-- 🌱 Currently learning Data Structures & Algorithms and Deep Learning
-- 🚀 Building projects and learning through hands-on experience
-- 🤝 Open to collaboration and learning opportunities
+- 💻 Exploring Java, Python, AI/ML, and Software Development
+- 🌱 Strengthening my skills in Data Structures & Algorithms and Deep Learning
+- 🚀 Developing projects to gain hands-on experience
+- 🤝 Always open to collaboration, new ideas, and learning opportunities
