@@ -10,6 +10,14 @@ I'm currently looking for **Front-End, Back-End or SDE internships**.
 - ☁️ Salesforce Certified Platform Developer, with hands-on Agentforce experience
 - 🌱 Currently strengthening Data Structures and Algorithms and learning Deep Learning
 - 🤝 Open to collaboration and learning opportunities
+## 🚀 Featured projects
+
+### 🛡️ PrivyScan: offline privacy scanner
+Finds hardcoded API keys, passwords, tokens and personal data in your code. It runs fully offline, so your code never leaves your machine.
+- Scans files, ZIP archives and large codebases across Python, JavaScript, Java, Go, C/C++, JSON, .env and YAML
+- Suggests a fix for every issue and shows results on an interactive dashboard
+- **Tech:** Python (AST + regex), Flask, Bootstrap
+- [Live demo](https://privyscanv1-1-1.onrender.com/) · [Source code](https://lnkd.in/gWYAba4n)
 
 
 
