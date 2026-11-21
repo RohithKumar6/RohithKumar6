@@ -31,6 +31,14 @@ A Salesforce CRM app that helps sales reps prioritise leads. It categorises lead
 **Data and database:** MySQL, Pandas, Sentence-Transformers
 **Platforms and tools:** Salesforce, Git, GitHub
 
+## 📜 Certifications
+
+- Salesforce Certified Platform Developer (2026)
+- Salesforce Certified Administrator with AI Agentforce Specialization, virtual internship (APSCHE and SmartBridge, 2026)
+- Applied Generative AI, Infosys Springboard (2025)
+- Career Essentials in Generative AI, Microsoft and LinkedIn (2026)
+
+
 
 
 
