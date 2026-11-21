@@ -18,6 +18,12 @@ Finds hardcoded API keys, passwords, tokens and personal data in your code. It r
 - Suggests a fix for every issue and shows results on an interactive dashboard
 - **Tech:** Python (AST + regex), Flask, Bootstrap
 - [Live demo](https://privyscanv1-1-1.onrender.com/) · [Source code](https://lnkd.in/gWYAba4n)
+### 📈 AI-Powered Lead Generation System
+A Salesforce CRM app that helps sales reps prioritise leads. It categorises leads as Hot, Warm or Cold, generates an AI summary for each lead with Prompt Builder, rejects personal email domains, and emails new leads automatically. Role-based access for Lead Managers and Sales Agents.
+- **Tech:** Salesforce, Agentforce, Einstein Prompt Builder, Flow
+- [Source code](https://github.com/RohithKumar6/SALESFORCE_PROJECT_AI_POWERED_LEAD_GENERATION_SYSTEM) · [Demo video](https://drive.google.com/file/d/1wm-2Crqxh_aTuKvLMUi2h_hpi8vYohEQ/view?usp=sharing)
+
+
 
 
 
