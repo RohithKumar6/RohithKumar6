@@ -38,7 +38,10 @@ A Salesforce CRM app that helps sales reps prioritise leads. It categorises lead
 - Applied Generative AI, Infosys Springboard (2025)
 - Career Essentials in Generative AI, Microsoft and LinkedIn (2026)
 
+## 🏆 Hackathons
 
+- HackPrix Season 2, Hyderabad (36 hours): built PrivyScan
+- Hack the Horizon 2.0, VIT Chennai (24 hours)
 
 
 
